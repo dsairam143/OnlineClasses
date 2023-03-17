@@ -1,0 +1,49 @@
+manufacturer,model,body_type,variant_title,fuel,gear_type,city,no_of_seats,variant,offer_price,original_price
+Tata,Nexon,SUV,1.2 XE,Petrol,Manual,in Bangalore,5,1\46,9.24,9.53
+Maruti Suzuki,Baleno,Hatchback,1.2 Sigma,Petrol,Manual,in Bangalore,5,1\9,7.92,8.03
+Tata,Punch,SUV,Pure Rhythm,Petrol,Manual,in Bangalore,5,1\22,7.55,7.79
+Hyundai,Grand i10 Nios,Hatchback,1.2 Era,Petrol,Manual,in Bangalore,5,1\9,6.62,7
+Hyundai,Aura,Sedan,1.2 S,Petrol,Manual,in Bangalore,5,1\7,8.4,8.76
+Maruti Suzuki,Wagon R,Hatchback,1.0 LXi,Petrol,Manual,in Bangalore,5,1\9,6.43,6.75
+Hyundai,New i20,Hatchback,1.2 Magna Kappa,Petrol,Manual,in Bangalore,5,1\9,8.42,8.81
+Maruti Suzuki,Swift,Hatchback,LXi,Petrol,Manual,in Bangalore,5,1\7,7.13,7.35
+Tata,Tigor,Sedan,XZ Plus CNG,CNG,Manual,in Bangalore,5,1\11,10.19,10.61
+Tata,Altroz,Hatchback,1.2 XZ (O) i-Turbo,Petrol,Manual,in Bangalore,5,1\25,10.54,10.97
+Hyundai,Venue,SUV,1.2 E,Petrol,Manual,in Bangalore,5,1\11,9.1,9.39
+Toyota,Glanza,Hatchback,E,Petrol,Manual,in Bangalore,5,1\9,7.92,8.07
+Tata,Tiago,Hatchback,XT(O),Petrol,Manual,in Bangalore,5,1\11,7.05,7.37
+Hyundai,Creta,SUV,1.5 S Plus Petrol Knight,Petrol,Manual,in Bangalore,5,1\18,16.98,17.51
+Maruti Suzuki,Dzire,Sedan,LXi,Petrol,Manual,in Bangalore,5,1\9,7.78,7.9
+Maruti Suzuki,Alto,Hatchback,VXi,Petrol,Manual,in Bangalore,5,1\4,5.16,5.41
+Maruti Suzuki,Ciaz,Sedan,1.5 Sigma MT,Petrol,Manual,in Bangalore,5,1\8,11.12,11.19
+Maruti Suzuki,Ignis,Hatchback,1.2 Sigma MT,Petrol,Manual,in Bangalore,5,1\7,6.51,6.82
+Hyundai,i20 N Line,Hatchback,1.0 N8 iMT,Petrol,Manual,in Bangalore,5,1\3,13.61,14.04
+Hyundai,Alcazar,SUV,1.5 Platinum 7 STR Diesel,Diesel,Manual,in Bangalore,7,1\12,23.41,24.01
+Honda,Amaze,Sedan,1.2 VX CVT Petrol,Petrol,Automatic,in Bangalore,5,1\5,11.19,11.5
+Mahindra,XUV300,SUV,1.2 W4,Petrol,Manual,in Bangalore,5,1\15,9.92,10.25
+Mahindra,Marazzo,MPV/MUV,M2,Diesel,Manual,in Bangalore,8,1\5,15.87,17.19
+Mahindra,Bolero,SUV,B4,Diesel,Manual,in Bangalore,7,1\3,11.35,11.59
+Maruti Suzuki,Celerio,Hatchback,VXi,Petrol,Manual,in Bangalore,5,1\8,6.82,7.12
+Maruti Suzuki,Brezza,SUV,VXi,Petrol,Manual,in Bangalore,5,1\6,11.48,11.62
+Tata,Nexon EV Prime,SUV,XZ Plus,Electric,Automatic,in Bangalore,5,1\6,16.62,17.18
+Maruti Suzuki,S-Presso,SUV,1.0 VXi Plus,Petrol,Manual,in Bangalore,5,1\5,6.39,6.74
+Mahindra,Scorpio-N,SUV,2.0 Z8L Petrol 6STR,Petrol,Manual,in Bangalore,7,1\30,24.17,24.86
+Maruti Suzuki,Alto K10,Hatchback,VXi,Petrol,Manual,in Bangalore,5,1\6,5.9,6.2
+Tata,Nexon EV Max,SUV,XZ Plus 7.2 KW FC,Electric,Automatic,in Bangalore,5,1\6,18.66,19.29
+Maruti Suzuki,XL6,SUV,Zeta,Petrol,Manual,in Bangalore,6,1\7,14.15,14.33
+Maruti Suzuki,Ertiga,SUV,LXi(O),Petrol,Manual,in Bangalore,7,1\9,10.21,10.35
+Hyundai,Venue N-Line,SUV,N6 DCT,Petrol,Automatic,in Bangalore,5,1\2,15.32,15.78
+Maruti Suzuki,New Grand Vitara,SUV,Zeta Plus CVT,Petrol,Automatic,in Bangalore,5,1\12,22.22,22.47
+Toyota,Urban Cruiser Hyryder,SUV,Neodrive S AT,Petrol,Automatic,in Bangalore,5,1\13,16.47,16.73
+Tata,Tiago NRG,Hatchback,1.2 XT,Petrol,Manual,in Bangalore,5,1\5,7.87,8.12
+Skoda,Kushaq,SUV,1.0 Active TSI,Petrol,Manual,in Bangalore,5,1\17,13.76,14.34
+Skoda,Slavia,Sedan,1.0 Active TSI,Petrol,Manual,in Bangalore,5,1\8,13.55,13.97
+Skoda,Superb,Sedan,2.0 Sportline TSI AT,Petrol,Automatic,in Bangalore,5,1\2,40.84,41.09
+Hyundai,Tucson,SUV,2.0 Platinum AT Petrol,Petrol,Automatic,in Bangalore,5,1\5,35.81,36.17
+Tata,Tiago EV,Hatchback,XE Medium,Electric,Automatic,in Bangalore,5,1\7,8.91,9.39
+Skoda,Kodiaq,SUV,Style,Petrol,Automatic,in Bangalore,7,1\3,46.01,47.11
+OLA Electric,S1,Convertible,S1,Electric,Automatic,in Bangalore,2,1 variant,1.1,1.1
+Maruti Suzuki,Eeco,Minivan/Van,5 STR STD,Petrol,Manual,in Bangalore,5,1\4,6.21,6.36
+OLA Electric,S1 Pro,Convertible,S1 Pro,Electric,Automatic,in Bangalore,2,1 variant,1.39,1.39
+Tata,Tigor EV,Convertible,XE,Electric,Automatic,in Bangalore,5,1\3,12.87,13.3
+Mahindra,Scorpio Classic,SUV,2.2 S 7STR,Diesel,Manual,in Bangalore,7,1\3,15.7,16.04
